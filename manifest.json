@@ -1,7 +1,7 @@
 {
-  "name": "Bicycle UEK App",
-  "short_name": "Bicycle app",
-  "start_url": ".",
+  "name": "Bicycle",
+  "short_name": "BC",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#FFF",
   "description": "Przykłady rowerów",
